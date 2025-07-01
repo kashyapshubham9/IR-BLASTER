@@ -39,7 +39,7 @@ Install the libraries necessary for IR communication and HTTP handling:
 
 After uploading the wifi connection code we configure the IFTTT  as below:-
 
-3\. Configure IFTTT for Voice Commands
+### 3\. Configure IFTTT for Voice Commands
 
 1. Create an account on [IFTTT](https://ifttt.com/).  
 2. Create an Applet:  
